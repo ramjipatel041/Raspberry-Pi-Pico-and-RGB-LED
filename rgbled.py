@@ -1,8 +1,5 @@
 import machine
 import time
-"""
-GurgleApps.com RGB LED Micropython code
-"""
 
 
 class RGBLED():
